@@ -1,5 +1,11 @@
 # Bài nộp LAB5 — [Track] · Nhóm [tên]
-[Danh sách thành viên và việc mỗi người làm — copy bảng từ README]
+**Lớp:** [L3A hoặc L3B] · **Bàn / zone:** [điền] · **Track:** [T1–T5]
+
+| Họ và Tên | Mã Học Viên | Việc đã làm |
+|---|---|---|
+| [Thành viên 1] | [Mã học viên] | [Phần việc cụ thể] |
+| [Thành viên 2] | [Mã học viên] | [Phần việc cụ thể] |
+| [Thành viên 3] | [Mã học viên] | [Phần việc cụ thể] |
 
 ## §1. Lát cắt & phạm vi
 - Lát cắt (chép từ track).
